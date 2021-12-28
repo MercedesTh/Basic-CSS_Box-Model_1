@@ -1,0 +1,13 @@
+*{
+    background: lightgray;
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    width: 200px;
+    padding: 25px;
+    background: turquoise;
+    border: 25px solid black;
+    margin: 25px auto 25px auto;    
+}
